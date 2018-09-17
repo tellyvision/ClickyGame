@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "/img/blanka.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/img/cammy.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/img/chunli.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/img/dhalsim.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/img/mbison.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/img/akuma.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/img/ibuki.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/img/ken.png",
+    "clicked": false
+  },  
+  {
+    "id": 9,
+    "image": "/img/rmia.png",
+    "clicked": false
+  },  
+  {
+    "id": 10,
+    "image": "/img/ryu.png",
+    "clicked": false
+  },  
+  {
+    "id": 11,
+    "image": "/img/sakura.png",
+    "clicked": false
+  },  
+  {
+    "id": 12,
+    "image": "/img/zangief.png",
+    "clicked": false
+  }
+]
+
+
+
